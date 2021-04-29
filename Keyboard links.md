@@ -1,8 +1,8 @@
 # 10u Keybords Links
 
-##Unibody 
+## Unibody 
 
-###Unibody Row Staggered 
+### Unibody Row Staggered 
 
 - QAZ -> In stock at https://www.cbkbd.com/product/qaz-keyboard-kit
 - Omega4 -> In stock at  https://www.cbkbd.com/product/omega4-keyboard-kit
@@ -15,7 +15,7 @@
 - Eleven -> Open source at https://github.com/drhigsby/Eleven
 - Mobile34 -> Private run on discord; No link
 
-###Unibody Ortho 
+### Unibody Ortho 
 
 - _33 -> Open source at https://github.com/tominabox1/_33-Keyboard
 - Dubba -> In stock at https://p3dstore.com/products/dubba-pcb-acrylic-gasket-keyboard-case
@@ -29,7 +29,7 @@
 - Rainkeeb -> Gb ended without website; no link
 - Space Space -> IC on the 40s discord discord.gg/40spercent; do `?rank space-space` to get the role
 
-###Unibody Column Staggered 
+### Unibody Column Staggered 
 
 - Reviung34 -> Open source at https://github.com/gtips/reviung/tree/master/reviung34
 - Ahokore -> Gb ended. Link to page  https://store.dez.li/product/ahokore
@@ -47,11 +47,11 @@
 - Eek -> In stock at https://www.cbkbd.com/product/eek-keyboard
 - Le Chiffre -> Gb ended. Link to page https://p3dstore.com/products/le-chiffre-group-buy?variant=37048032297144. Also open source at https://github.com/tominabox1/Le-Chiffre-Keyboard
 
-##Split 
+## Split 
 
-###Split Row Staggered 
+### Split Row Staggered 
 
-###Split Ortho 
+### Split Ortho 
 
 - Reviung34 Split 
 - Levinson 
@@ -61,7 +61,7 @@
 - MiniAxe 
 - Rhymestone  
 
-###Split Column Staggered 
+### Split Column Staggered 
 
 - Ferris  
 - Microdox  
@@ -84,7 +84,7 @@
 - Centromere Mini  
 - Skeletyl   
 
-##Other 
+## Other 
 
 - alpha  
 - Stonehenge30  
