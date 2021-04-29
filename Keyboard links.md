@@ -46,6 +46,7 @@
 - Eggman -> Ic on 40s server (?rank eggman)
 - Eek -> In stock at https://www.cbkbd.com/product/eek-keyboard
 - Le Chiffre -> Gb ended. Link to page https://p3dstore.com/products/le-chiffre-group-buy?variant=37048032297144. Also open source at https://github.com/tominabox1/Le-Chiffre-Keyboard
+- Kawa 
 
 ## Split 
 
@@ -55,7 +56,6 @@
 
 - Reviung34 Split 
 - Levinson 
-- Kawa 
 - Foobar 
 - Trail Mix 
 - MiniAxe 
