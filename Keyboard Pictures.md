@@ -45,17 +45,16 @@
 - Eek -> https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fassets.bigcartel.com%2Fproduct_images%2F286040457%2F4D28B945-886F-4C37-BFAA-33BBC0B6FB05.jpeg%3Fauto%3Dformat%26fit%3Dmax%26h%3D1200%26w%3D1200&f=1&nofb=1
 - Le Chiffre -> https://cdn.shopify.com/s/files/1/0501/7537/7592/products/sbb_grande.jpg?v=1602697820
 - Reviung30 -> https://cdn.discordapp.com/attachments/527180441950617615/802753080704630784/il_1140xN.png
+- Kawa -> https://assets.bigcartel.com/product_images/298282275/kawa.jpg?auto=format&fit=max&w=1120
 
 ## Split
 
 ### Split Row Staggered
-- Twoyo THAT'S 12U!! ILLEGAL!! -> https://assets.bigcartel.com/product_images/301235688/50ED9B40-4A30-42FE-9AD2-76EC7CACFB5A.jpeg?auto=format&fit=max&w=1500 THAT'S 12 U!! ILLEGAL!!
 
 ### Split Ortho
 - Reviung34 Split -> https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.B3doAEjdWuN6RbzdSR22ywHaE8%26pid%3DApi&f=1
 - Levinson -> https://preview.redd.it/qy3ga50vls861.png?width=960&crop=smart&auto=webp&s=de504ee4de35459c4826fffa14a9a49186285788
-- Kawa -> https://assets.bigcartel.com/product_images/298282275/kawa.jpg?auto=format&fit=max&w=1120
-- Foobar '> https://4.bp.blogspot.com/-b9ZZWt2Ju9M/WbwVM0RitqI/AAAAAAACDdM/SZC11cnTHu8NG7AmMUV6Vj2HPqhtS4MDACLcBGAs/s640/f.JPG
+- Foobar -> https://4.bp.blogspot.com/-b9ZZWt2Ju9M/WbwVM0RitqI/AAAAAAACDdM/SZC11cnTHu8NG7AmMUV6Vj2HPqhtS4MDACLcBGAs/s640/f.JPG
 - Trail Mix -> https://assets.bigcartel.com/product_images/301235922/image0-min.png?auto=format&fit=max&w=1500
 - MiniAxe -> https://media.discordapp.net/attachments/532682459800797196/813017519027257344/B6418C40-737D-43E6-9BB0-4746175D2049.JPG?width=1025&height=410
 - Rhymestone https://github.com/marksard/Keyboards/raw/master/_image/_rhymestone.jpg
